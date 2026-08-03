@@ -1,6 +1,10 @@
 [package]
-name = "validador"
+name = "validador_crt_rust_cpf"
 version = "0.1.0"
 edition = "2024"
+authors = ["John Doe"]
+description = "First crate"
+license = "MIT"
+repository = "https://github.com/FullMiga/lib-cpf-validator-rust"
 
 [dependencies]
